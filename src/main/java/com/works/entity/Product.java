@@ -18,3 +18,11 @@ public class Product {
     private Float product_price;
 
 }
+
+/*
+* {
+*   "status": false,
+*   "message": "Product added successfully."
+*   "result: {}
+* }
+* */
